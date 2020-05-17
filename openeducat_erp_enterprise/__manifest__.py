@@ -26,7 +26,7 @@
         'openeducat_assignment_enterprise',
         'openeducat_attendance_enterprise',
         ##'openeducat_backend_theme',
-        'openeducat_bigbluebutton',
+        ##'openeducat_bigbluebutton',
         'openeducat_campus_enterprise',
         'openeducat_classroom_enterprise',
         'openeducat_discipline',
